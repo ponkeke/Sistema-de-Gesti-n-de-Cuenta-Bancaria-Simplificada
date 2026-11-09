@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Tokens de diseño de Tailwind (paleta de Mi Banco y tipografía). */
+@theme {
+  --color-brand: #0755b8;
+  --color-brand-dark: #003b7a;
+  --color-accent: #ff8a00;
+  --color-accent-hover: #ffa033;
+  --color-surface: #f2f5fa;
+  --font-sans: "Segoe UI", "Helvetica Neue", Arial, system-ui, sans-serif;
+}
